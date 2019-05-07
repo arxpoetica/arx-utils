@@ -1,0 +1,26 @@
+{
+  "name": "@arxpoetica/utils",
+  "version": "0.0.1",
+  "description": "Utilities shared in multiple repositories.",
+  "main": "index.js",
+  "dependencies": {
+    "dayjs": "1.8.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arxpoetica/arx-utils.git"
+  },
+  "keywords": [
+    "utilities"
+  ],
+  "author": "Robert Hall <langbert@gmail.com> (http://robertlangfordhall.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arxpoetica/arx-utils/issues"
+  },
+  "homepage": "https://github.com/arxpoetica/arx-utils#readme"
+}
